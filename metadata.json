@@ -1,0 +1,8 @@
+{
+    "uuid": "spellchecker@heygus-code.github.io",
+    "name": "Spell Check Button",
+    "description": "Check spelling with a convenient button. Left click uses clipboard, middle click uses text selection.",
+    "shell-version": ["45", "46", "47"],
+    "url": "YOUR_GITHUB_REPO_URL",
+    "version": 1
+}
